@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zionknight-crypto/monsters-rolodex/static/css/main.97aabe03.chunk.css",
+    "main.js": "/Zionknight-crypto/monsters-rolodex/static/js/main.91ba1c4f.chunk.js",
+    "main.js.map": "/Zionknight-crypto/monsters-rolodex/static/js/main.91ba1c4f.chunk.js.map",
+    "runtime-main.js": "/Zionknight-crypto/monsters-rolodex/static/js/runtime-main.219fbee3.js",
+    "runtime-main.js.map": "/Zionknight-crypto/monsters-rolodex/static/js/runtime-main.219fbee3.js.map",
+    "static/js/2.0a4e41ba.chunk.js": "/Zionknight-crypto/monsters-rolodex/static/js/2.0a4e41ba.chunk.js",
+    "static/js/2.0a4e41ba.chunk.js.map": "/Zionknight-crypto/monsters-rolodex/static/js/2.0a4e41ba.chunk.js.map",
+    "index.html": "/Zionknight-crypto/monsters-rolodex/index.html",
+    "precache-manifest.fe5182daeb660aebe018d011cf810c86.js": "/Zionknight-crypto/monsters-rolodex/precache-manifest.fe5182daeb660aebe018d011cf810c86.js",
+    "service-worker.js": "/Zionknight-crypto/monsters-rolodex/service-worker.js",
+    "static/css/main.97aabe03.chunk.css.map": "/Zionknight-crypto/monsters-rolodex/static/css/main.97aabe03.chunk.css.map",
+    "static/js/2.0a4e41ba.chunk.js.LICENSE.txt": "/Zionknight-crypto/monsters-rolodex/static/js/2.0a4e41ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219fbee3.js",
+    "static/js/2.0a4e41ba.chunk.js",
+    "static/css/main.97aabe03.chunk.css",
+    "static/js/main.91ba1c4f.chunk.js"
+  ]
+}
