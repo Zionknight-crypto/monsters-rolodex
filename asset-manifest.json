@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Zionknight-crypto/monsters-rolodex/static/css/main.97aabe03.chunk.css",
-    "main.js": "/Zionknight-crypto/monsters-rolodex/static/js/main.91ba1c4f.chunk.js",
-    "main.js.map": "/Zionknight-crypto/monsters-rolodex/static/js/main.91ba1c4f.chunk.js.map",
-    "runtime-main.js": "/Zionknight-crypto/monsters-rolodex/static/js/runtime-main.219fbee3.js",
-    "runtime-main.js.map": "/Zionknight-crypto/monsters-rolodex/static/js/runtime-main.219fbee3.js.map",
-    "static/js/2.0a4e41ba.chunk.js": "/Zionknight-crypto/monsters-rolodex/static/js/2.0a4e41ba.chunk.js",
-    "static/js/2.0a4e41ba.chunk.js.map": "/Zionknight-crypto/monsters-rolodex/static/js/2.0a4e41ba.chunk.js.map",
-    "index.html": "/Zionknight-crypto/monsters-rolodex/index.html",
-    "precache-manifest.fe5182daeb660aebe018d011cf810c86.js": "/Zionknight-crypto/monsters-rolodex/precache-manifest.fe5182daeb660aebe018d011cf810c86.js",
-    "service-worker.js": "/Zionknight-crypto/monsters-rolodex/service-worker.js",
-    "static/css/main.97aabe03.chunk.css.map": "/Zionknight-crypto/monsters-rolodex/static/css/main.97aabe03.chunk.css.map",
-    "static/js/2.0a4e41ba.chunk.js.LICENSE.txt": "/Zionknight-crypto/monsters-rolodex/static/js/2.0a4e41ba.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-rolodex/static/css/main.97aabe03.chunk.css",
+    "main.js": "/monsters-rolodex/static/js/main.73606e56.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.73606e56.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.fa9629a0.js",
+    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.fa9629a0.js.map",
+    "static/js/2.0a4e41ba.chunk.js": "/monsters-rolodex/static/js/2.0a4e41ba.chunk.js",
+    "static/js/2.0a4e41ba.chunk.js.map": "/monsters-rolodex/static/js/2.0a4e41ba.chunk.js.map",
+    "index.html": "/monsters-rolodex/index.html",
+    "precache-manifest.97a76089d75c8e3b7a93f020ca339da2.js": "/monsters-rolodex/precache-manifest.97a76089d75c8e3b7a93f020ca339da2.js",
+    "service-worker.js": "/monsters-rolodex/service-worker.js",
+    "static/css/main.97aabe03.chunk.css.map": "/monsters-rolodex/static/css/main.97aabe03.chunk.css.map",
+    "static/js/2.0a4e41ba.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.0a4e41ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.219fbee3.js",
+    "static/js/runtime-main.fa9629a0.js",
     "static/js/2.0a4e41ba.chunk.js",
     "static/css/main.97aabe03.chunk.css",
-    "static/js/main.91ba1c4f.chunk.js"
+    "static/js/main.73606e56.chunk.js"
   ]
 }
