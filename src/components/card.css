@@ -13,6 +13,6 @@
     color: black;
 }
 
-.card-container: hover {
+.card-container:hover {
     transform: scale(1.05);
 }
